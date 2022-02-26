@@ -13,9 +13,10 @@ function App() {
   return (
     <>
       <div className="app">
-      //</div><div className="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_J0efs16fDfNstS/view" data-text="Donate " data-color="#528FF0" data-size="large">
-      <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_J0dEPWTpnVWZ5S" async> </script> </form>
+     <div className="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_J0efs16fDfNstS/view" data-text="Donate " data-color="#528FF0" data-size="large">
       </div>
+      </div>
+
     </>
   );
 }
