@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# ✨Ateru
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54b2e6b0-246d-4449-ba7b-a88079d6821a/deploy-status)](https://ateru.netlify.app/)
+<hr />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Web3 based donation platform built on the Tezos blockchain. Ateru aims to make the act of donating transparent and incentivising using the power of blockchain
 
-## Available Scripts
+_Built during the HackNITP Hackathon organised by NIT Patna on the Healthcare and Open Innovation tracks_
 
-In the project directory, you can run:
+Please note that as this was a 48 hour hackathon, we could not make the site responsive. We built it with reference to the 14" breakpoint
+<br />
 
-### `npm start`
+## 🔗Relevant Links
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
+2. **Video Pitch**: [Watch Here](https://youtu.be/nuU5HW9zQyE)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
 
-### `npm test`
+## 🤔What is Ateru?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ateru is a web3 based donation and fundraising platform. With this product, we aim to solve the problems the existing donation platforms pose - lack of transparency, incentive to donate and heavy convenience fees.
 
-### `npm run build`
+We propose a clean and incentivsing model to bridge the apprehension gap between a philanthropic individual and a donor with the power and transparency of web3. Our intention is not making money, with a 0% cut in donation fees, we wish to empower the needy.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Kindness is a virtue that should be rewarded, every donor gets a customised flaunt-worthy NFT for every donation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_This was Ateru for you in under 100 words!_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br />
 
-### `npm run eject`
+## 💻 How to Run This Project Locally?
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository with the following command
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+git clone https://github.com/PrabhavPandey/ateru-webapp.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Run `npm install` or `yarn install` to install all the dependencies
+3. Run `npm start` or `yarn start` to run the project on `localhost:3000`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br />
 
-## Learn More
+## 👀Current Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**The site is currently live on Netlify on this link**: [Ateru](https://ateru.netlify.app/) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_For demonstrative purposes only_
 
-### Code Splitting
+**Some Screenshots of the Website**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="left"> 
+<img src="https://user-images.githubusercontent.com/18113725/153751047-2ac66827-2bb9-489d-b240-820693e5b29a.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751052-61b82bae-a761-488c-8c83-22cf14aba764.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751053-087e5868-2435-4f6c-a7d5-492d5c5bfd9e.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751055-cdda9f4f-d739-4e81-95a5-61562456b7da.PNG" width="400px" />
+  </p>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<br />
 
-### Making a Progressive Web App
+## 📱Tech Stack and Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p  align="left"> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"  alt="react"  width="120"  height="40"/> </a> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://i.postimg.cc/wMVTqcmX/css.png"  alt="scss" width="50px"/> </a> </p>
 
-### Advanced Configuration
+(ReactJS and CSS3)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Blockchain Technologies**: Tezos, Beacon-SDK
 
-### Deployment
+**Dependencies**: `react-router-dom` and `react-router-hash-link`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<br />
 
-### `npm run build` fails to minify
+## 💱More on the Usage of Tezos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clicking the "Login" button in the navbar will open this prompt window and you can choose any wallet to sign in. Currently, as the Tezos testnet endpoint was throwing some errors at our end, we weren't able to test the working, but have written code for login, logout, send and receive XTZ in `App.js`
+
+<img src="https://user-images.githubusercontent.com/18113725/153726402-46182f2b-0a7c-498e-9e40-cbbbedfcef67.PNG" width="700" />
+
+<br />
+<hr />
+
+## 😄Contact Us
+
+Have any feedback, any suggestions? Or just want to connect?
+
+Head over to my **[LinkedIn](https://www.linkedin.com/in/prabhav-pandey/)** or **[Github](https://github.com/PrabhavPandey)** profile
+
+
+
+

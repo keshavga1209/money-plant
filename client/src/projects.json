@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "projectName": "Jonathan Jstar",
+    "picture": "https://cdn.costumewall.com/wp-content/uploads/2018/09/young-jonathan-joestar.jpg",
+    "gif": "https://i.pinimg.com/originals/37/ed/ef/37edef96f91d657cdd4b64013b19b848.gif",
+    "icon": "https://i.pinimg.com/originals/d5/95/3b/d5953bd404c422078ba88b5e1b613abe.png",
+    "description": "The son of George Joestar I, Jonathan is an honest, kind and positive man whose life is fraught with tragedy after meeting his adopted older brother, Dio Brando.",
+    "status": "none",
+    "wallet": "tz2JxQqaMMZRGarvE8nBKrvnZFtGUZP6BurD",
+    "recentHash": "none"
+  },
+  {
+    "id": 2,
+    "projectName": "Boogie Woogie",
+    "picture": "https://otakusnotes.com/wp-content/uploads/2020/12/Screenshot-10.jpg?ezimgfmt=rs:412x232/rscb10/ng:webp/ngcb10",
+    "gif": "https://64.media.tumblr.com/7787fbdcada0d0e189c5a92203e6172b/be1367fba7302f32-0d/s640x960/50bb89e17c1913b5d814bf70923dd0e29ba21486.gif",
+    "icon": "https://i.pinimg.com/originals/6f/ec/66/6fec66495f05387d53c411085a85cb2d.jpg",
+    "description": "Boogie Woogie is Aoi Todo's Innate Technique which allows him to switch places with another person or object by clapping his hands.",
+    "status": "none",
+    "wallet": "tz2CHEytuFbbbKrM1jRd2QiWiCahGTQvVRvk",
+    "recentHash": "none"
+  },
+  {
+    "id": 3,
+    "projectName": "Fire",
+    "picture": "https://chaospin.com/wp-content/uploads/2020/07/fire-force-s2-1280x720.jpg",
+    "gif": "https://i.pinimg.com/originals/53/2a/50/532a50ca80365afb0ca2c36a28f4df5a.gif",
+    "icon": "https://pbs.twimg.com/profile_images/1183852652901421058/_m5YtZfB_400x400.jpg",
+    "description": "Shinra Kusakabe is a third generation pyrokinetic youth who gained the nickname 'Devil's Footprints' for his ability to ignite his feet at will. He joins Special Fire Force Company 8, which features other pyrokinetics who dedicated themselves to ending the Infernal attacks for good while investigating Companies 1 through 7 for potential corruption in their ranks.",
+    "status": "none",
+    "wallet": "tz2C3Gkw98LUbry2bHEMoTf7YCo9W3ngAAnF",
+    "recentHash": "none"
+  }
+]

@@ -1,0 +1,62 @@
+.title {
+  color: rgb(49, 49, 49);
+  font-size: 1.5em;
+  width: 50vw !important;
+  padding-left: 6vw !important;
+}
+
+.nav {
+  background-color: #00000000;
+  width: 100%;
+}
+
+.nav-items {
+  background-color: transparent;
+  color: rgb(49, 49, 49);
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.nav_container {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.nav_right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 50vw;
+  color: rgb(29, 29, 29);
+  background: #A1FFCE;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  min-height: 16vh;
+  padding-right: 2vw;
+}
+
+.nav_right > * {
+  margin-left: 2em;
+}
+
+.loginButton {
+  cursor: pointer;
+  background-color: #0a8d41;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 0.5em 1.9em;
+  border-color: #00725e;
+  border-radius: 6px;
+  transition: 0.2s ease-in;
+}
+
+.loginButton:hover {
+  background-color: #00725e;
+  color: rgb(255, 255, 255);
+}
