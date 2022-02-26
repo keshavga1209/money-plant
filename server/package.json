@@ -14,12 +14,15 @@
     "cors": "^2.8.5",
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
+    "formidable": "^2.0.1",
     "helmet": "^5.0.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.1.7",
     "nodemon": "^2.0.15",
     "passport": "^0.5.2",
-    "passport-google-oauth20": "^2.0.0"
+    "passport-google-oauth20": "^2.0.0",
+    "razorpay": "^2.8.0",
+    "uniqid": "^5.4.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.8",

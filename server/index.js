@@ -3,6 +3,7 @@ import express from "express";
 import cors from "cors";
 import helmet from "helmet";
 import passport from "passport";
+import bodyParser from "body-parser";
 
 import ConnectDB from "./database/connection";
 
@@ -15,10 +16,15 @@ app.use(helmet());
 app.use(passport.initialize());
 
 import Auth from "./API/Auth";
+import paymentRoute from "./API/Payments/paymentRoute";
 
 googleAuthConfig(passport);
 
+app.use(bodyParser.json());
+app.use(cors());
+
 app.use("/auth", Auth);
+app.use("/api", paymentRoute);
 
 app.listen(4000, () => {
     ConnectDB()
