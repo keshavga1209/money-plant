@@ -1,30 +1,21 @@
-# ✨Ateru
-[![Netlify Status](https://api.netlify.com/api/v1/badges/54b2e6b0-246d-4449-ba7b-a88079d6821a/deploy-status)](https://ateru.netlify.app/)
+# ✨Money Plant
+[![Netlify Status]
 <hr />
 
-A Web3 based donation platform built on the Tezos blockchain. Ateru aims to make the act of donating transparent and incentivising using the power of blockchain
 
-_Built during the HackNITP Hackathon organised by NIT Patna on the Healthcare and Open Innovation tracks_
 
 Please note that as this was a 48 hour hackathon, we could not make the site responsive. We built it with reference to the 14" breakpoint
 <br />
 
 ## 🔗Relevant Links
 
-1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
-2. **Video Pitch**: [Watch Here](https://youtu.be/nuU5HW9zQyE)
+1. **Presentation Deck**: [Click Here]
+2. **Video Pitch**: [Watch Here]
 
 <br />
 
-## 🤔What is Ateru?
+## 🤔What is ____?
 
-Ateru is a web3 based donation and fundraising platform. With this product, we aim to solve the problems the existing donation platforms pose - lack of transparency, incentive to donate and heavy convenience fees.
-
-We propose a clean and incentivsing model to bridge the apprehension gap between a philanthropic individual and a donor with the power and transparency of web3. Our intention is not making money, with a 0% cut in donation fees, we wish to empower the needy.
-
-Kindness is a virtue that should be rewarded, every donor gets a customised flaunt-worthy NFT for every donation.
-
-_This was Ateru for you in under 100 words!_
 
 <br />
 
