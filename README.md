@@ -2,6 +2,9 @@
 
 This is an app for managing donations for planting trees
 
+## Video-demo
+https://www.awesomescreenshot.com/video/7617974?key=ca1aeeae10c90b3f4bd3cb0942c0eb1d
+
 ## clone or download
 ```terminal
 $ git clone https://github.com/keshavga1209/money-plant.git
